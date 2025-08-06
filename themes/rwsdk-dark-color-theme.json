@@ -1,8 +1,8 @@
 {
   "name": "RWSDK Dark",
   "colors": {
-    "editor.background": "#FFFAF3",
-    "editor.foreground": "#e47947",
+    "editor.background": "#202020",
+    "editor.foreground": "#FFF",
     "activityBarBadge.background": "#d54b40",
     "sideBarTitle.foreground": "#333333",
 
@@ -13,15 +13,15 @@
     "editor.findMatchHighlightBackground": "#ff6b6b80",
 
     // Sidebar and panels
-    "sideBar.background": "#FFF7EC",
-    "sideBar.foreground": "#802c43",
+    "sideBar.background": "#000",
+    "sideBar.foreground": "#ccc",
     "activityBar.background": "#e9ecef",
     "activityBar.foreground": "#495057",
 
     // Sidebar section headers - this is the expanding and collapsing headers in the sidebar
-    "sideBarSectionHeader.background": "#f0dfc4",
+    "sideBarSectionHeader.background": "#202020",
     "sideBarSectionHeader.foreground": "#d54b40",
-    "sideBarSectionHeader.border": "#dee2e6",
+    "sideBarSectionHeader.border": "#333",
 
     "sideBar.border": "#d54b40",
 
@@ -35,22 +35,22 @@
     "panelTitle.activeBorder": "#e47947",
 
     // List error text color
-    "list.errorForeground": "#802c43",
+    "list.errorForeground": "#fb5707",
 
     // Notification list styling
-    "notificationCenter.border": "#dee2e6",
-    "notificationCenterHeader.background": "#fff4df",
-    "notificationCenterHeader.foreground": "#495057",
-    "notificationToast.border": "#dee2e6",
-    "notifications.background": "#ffffff",
-    "notifications.foreground": "#495057",
-    "notifications.border": "#dee2e6",
+    "notificationCenter.border": "#d54b40",
+    "notificationCenterHeader.background": "#000",
+    "notificationCenterHeader.foreground": "#ccc",
+    "notificationToast.border": "#d54b40",
+    "notifications.background": "#000",
+    "notifications.foreground": "#ddd",
+    "notifications.border": "#d54b40",
     "notificationsErrorIcon.foreground": "#d54b40",
     "notificationsWarningIcon.foreground": "#f3b15c",
     "notificationsInfoIcon.foreground": "#e47947",
 
     // Status bar
-    "statusBar.background": "#802c43",
+    "statusBar.background": "#fb5707",
     "statusBar.foreground": "#ffffff",
 
     // Toolbar buttons
@@ -72,28 +72,28 @@
     "actionBar.toggledBackground": "#ffd700",
 
     // Tabs
-    "tab.activeBackground": "#ffffff", // active tab
-    "tab.inactiveBackground": "#fff4df", // inactive tab
+    "tab.activeBackground": "#202020", // active tab
+    "tab.inactiveBackground": "#000", // inactive tab
     "tab.activeForeground": "#495057", // active tab text
     "tab.inactiveForeground": "#6c757d", // inactive tab text
 
     // Tab bar container
-    "editorGroupHeader.tabsBackground": "#fff5e0",
-    "editorGroupHeader.tabsBorder": "#F7ECD6",
+    "editorGroupHeader.tabsBackground": "#000",
+    "editorGroupHeader.tabsBorder": "#222",
 
-    "textCodeBlock.background": "#fbe5c8",
+    "textCodeBlock.background": "#202020",
 
     // Tab border
-    "tab.border": "#F7ECD6",
+    "tab.border": "#222",
     "tab.activeBorder": "#d54b40",
 
     // Line numbers and gutter
-    "editorLineNumber.foreground": "#f3b15c",
-    "editorLineNumber.activeForeground": "#802c43", // active line number
-    "editorGutter.background": "#fffaf4",
+    "editorLineNumber.foreground": "#888",
+    "editorLineNumber.activeForeground": "#fb5707", // active line number
+    "editorGutter.background": "#202020",
 
     // Scrollbar
-    "scrollbarSlider.background": "#dee2e6",
+    "scrollbarSlider.background": "#333",
     "scrollbarSlider.hoverBackground": "#adb5bd",
 
     // File explorer highlighting - this also used for menu bar icons
@@ -104,12 +104,12 @@
 
     // Hover states
     "list.hoverBackground": "#d54b40",
-    "list.hoverForeground": "#fbe5c8",
+    "list.hoverForeground": "#202020",
 
     // Focus states
     "list.focusBackground": "#ffd700",
     "list.focusForeground": "#495057",
-    "list.focusOutline": "#fbe5c8",
+    "list.focusOutline": "#202020",
 
     // Breadcrumb text colors
     "breadcrumb.foreground": "#e47947",
@@ -117,16 +117,16 @@
     "breadcrumb.activeSelectionForeground": "#495057",
 
     // Current line indicator
-    "editor.lineHighlightBackground": "#fff3cd",
+    "editor.lineHighlightBackground": "#000",
     "editor.lineHighlightBorder": "#d54b40",
 
     // Word highlight ring
     "editor.wordHighlightBackground": "#e4794730",
-    "editor.wordHighlightBorder": "#fff7ec",
+    "editor.wordHighlightBorder": "#000",
 
     // Word highlighting for write access
     "editor.wordHighlightStrongBackground": "#e4794730",
-    "editor.wordHighlightStrongBorder": "#fff7ec",
+    "editor.wordHighlightStrongBorder": "#000",
 
     // Cursor line (vertical line)
     "editorCursor.foreground": "#d54b40",
@@ -134,12 +134,12 @@
 
     // Symbol highlight ring
     "editor.symbolHighlightBackground": "#d54b4040",
-    "editor.symbolHighlightBorder": "#fff7ec",
+    "editor.symbolHighlightBorder": "#000",
 
     // Chat/Input areas
-    "input.background": "#ffffff",
+    "input.background": "#000",
     "input.foreground": "#495057",
-    "input.border": "#dee2e6",
+    "input.border": "#d54b40",
     "input.placeholderForeground": "#adb5bd",
 
     // Chat input focus
@@ -148,40 +148,40 @@
 
     // Chat suggestions
     "chat.slashCommandBackground": "#fff3cd",
-    "chat.slashCommandForeground": "#802c43",
+    "chat.slashCommandForeground": "#fb5707",
 
     // Menu bar
     "menubar.selectionBackground": "#e47947",
     "menubar.selectionForeground": "#fff4df",
 
     // Title bar buttons
-    "titleBar.activeBackground": "#fff4df",
+    "titleBar.activeBackground": "#d54b40",
     "titleBar.activeForeground": "#e47947",
-    "titleBar.inactiveBackground": "#fff4df",
+    "titleBar.inactiveBackground": "#222",
     "titleBar.inactiveForeground": "#e47947",
 
     // Command palette
-    "quickInput.background": "#ffffff",
+    "quickInput.background": "#000",
     "quickInput.foreground": "#e47947",
     "quickInputList.focusBackground": "#e47947",
     "quickInputList.focusForeground": "#fff4df",
     "quickInputList.focusIconForeground": "#fff4df",
 
     // Icon colors - in cursor, this controls the extension icon colors
-    "icon.foreground": "#e47947",
+    "icon.foreground": "#fbe5c8",
 
     // Extension button colors
     "extensionButton.hoverBackground": "#d54b40",
 
     // Keyboard shortcut styling
-    "keybindingLabel.background": "#802c43",
+    "keybindingLabel.background": "#fb5707",
     "keybindingLabel.foreground": "#fff4df",
-    "keybindingLabel.border": "#802c43",
-    "keybindingLabel.bottomBorder": "#802c43",
+    "keybindingLabel.border": "#fb5707",
+    "keybindingLabel.bottomBorder": "#fb5707",
 
     // Indentation guides
-    "editorIndentGuide.background1": "#f0dfc4",
-    "editorIndentGuide.activeBackground1": "#f0dfc4"
+    "editorIndentGuide.background1": "#000",
+    "editorIndentGuide.activeBackground1": "#000"
   },
   "tokenColors": [
     {
@@ -277,7 +277,7 @@
         "keyword.other.special-method"
       ],
       "settings": {
-        "foreground": "#133c99"
+        "foreground": "#89B6FF"
       }
     },
     {
@@ -414,7 +414,7 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#802c43"
+        "foreground": "#fb5707"
       }
     },
     {
@@ -509,7 +509,7 @@
         "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
       ],
       "settings": {
-        "foreground": "#401c76"
+        "foreground": "#CAA1FF"
       }
     },
     {
@@ -582,7 +582,7 @@
         "punctuation.definition.list_item.markdown"
       ],
       "settings": {
-        "foreground": "#802c43"
+        "foreground": "#CCC"
       }
     },
     {
