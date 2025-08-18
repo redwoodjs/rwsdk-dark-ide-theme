@@ -1,8 +1,8 @@
 # RWSDK Dark Theme 🌲
 
-![]()
+![](./images/rwsdk-dark-theme.png)
 
-A Visual Studio Code theme for developers that like to write code quickly. Color choices have taken into consideration what is accessible to people with colorblindness and in low-light circumstances. Decisions were also based on meaningful contrast for reading comprehension and optimized with sparkle and shine. ✨
+The RWSDK Dark Theme brings RedwoodSDK's warm, earthy branding into your nighttime coding environment. With its signature orange (#e47947), rich earth tones, and deep charcoal background (#202020), this theme delivers excellent readability while reducing eye strain during long coding sessions in low-light conditions. Perfect for developers who want their VS Code to reflect RedwoodSDK's distinctive brand identity while providing a comfortable dark coding experience.
 
 ## Installation
 
@@ -29,7 +29,7 @@ A Visual Studio Code theme for developers that like to write code quickly. Color
 ```json
 "workbench.colorCustomizations": {
   "[RWSDK]": {
-    "activityBar.background": "#000C1D",
+    "activityBar.background": "#000000",
     "activityBar.border": "#102a44",
     "editorGroup.border": "#102a44",
     "sideBar.background": "#001122",
@@ -47,8 +47,6 @@ The font in the preview image is Dank Mono, [available here](https://dank.sh/). 
 "editor.fontFamily": "Dank Mono",
 "editor.fontLigatures": true,
 ```
-
-The preview image is using [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer), a really cool extension that highlights matching brackets. This can help reduce unwanted errors.
 
 I use this setting:
 
