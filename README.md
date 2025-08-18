@@ -1,6 +1,6 @@
 # RWSDK Dark Theme 🌲
 
-![](./images/rwsdk-dark-theme.png)
+![](https://github.com/redwoodjs/rwsdk-dark-ide-theme/blob/main/images/rwsdk-dark-theme.png?raw=true)
 
 The RWSDK Dark Theme brings RedwoodSDK's warm, earthy branding into your nighttime coding environment. With its signature orange (#e47947), rich earth tones, and deep charcoal background (#202020), this theme delivers excellent readability while reducing eye strain during long coding sessions in low-light conditions. Perfect for developers who want their VS Code to reflect RedwoodSDK's distinctive brand identity while providing a comfortable dark coding experience.
 
