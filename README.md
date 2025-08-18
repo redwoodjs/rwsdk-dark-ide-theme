@@ -60,7 +60,7 @@ I use this setting:
 
 If you see something "off", please feel free to file an issue! I'm sure there are things I missed.
 
-Any relevant changes for each version are documented in the [changelog](./CHANGELOG.md). Please update and check the changelog before [filing any issues](https://github.com/ahaywood/rwsdk-dark-theme/issues?q=sort:updated-desc+is:issue+is:open), as they may have already been taken care of.
+Any relevant changes for each version are documented in the [changelog](https://github.com/redwoodjs/rwsdk-dark-ide-theme/blob/main/CHANGELOG.md). Please update and check the changelog before [filing any issues](https://github.com/ahaywood/rwsdk-dark-theme/issues?q=sort:updated-desc+is:issue+is:open), as they may have already been taken care of.
 
 ## Acknowledgements
 
