@@ -54,8 +54,6 @@ I use this setting:
 "bracketPairColorizer.forceIterationColorCycle": true,
 ```
 
-![]()
-
 ## Miscellaneous
 
 If you see something "off", please feel free to file an issue! I'm sure there are things I missed.
